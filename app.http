@@ -1,0 +1,16 @@
+POST http://localhost:5555/send-video-details
+Content-Type: application/json
+
+{
+    "video_url" :"https://www.youtube.com/watch?v=xfHsqHj6mR0",
+    "title" : "Melbourne Renegades v Brisbane Heat | BBL|13",
+    "view_count" : "413K views",
+    "video_description" : "Watch highlights of the 5th T20I between West Indies v England at Brian Lara Cricket Academy, Tarouba.",
+    "video_published_date" : "Dec 21, 2023",
+    "channel_logo" : "https://yt3.ggpht.com/nCtago6abNXf7lnLOl7et1K7C_7ymOAuoVYS_U0Qy0bd3YeNrK--5qov5x1HlNFWx6H2gmzcKJM=s88-c-k-c0x00ffffff-no-rj",
+    "channel_subscribers" : "9.6M subscribers",
+    "channel_name" : "cricket.com.au",
+    "savedStatus" : "false",
+    "category" : "Gaming",
+    "thumbnail_url" : "https://i.ytimg.com/vi/xfHsqHj6mR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9nnwmXQHYekC23O1ucmcpm5BrLQ"
+}
